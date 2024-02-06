@@ -7,8 +7,11 @@ Sanner UI
 <img width="388" alt="Barcode" src="https://github.com/Elaidzha1940/BarcodeScanner/assets/64445918/203ea823-fcaf-4735-976e-f72d0b531d10">
 <img width="388" alt="Barcode1" src="https://github.com/Elaidzha1940/BarcodeScanner/assets/64445918/b432b216-aaa3-4555-944d-ac45cc577567">
 
+----------
+
 Scanner 
 --------
+
 ````````````````ruby
 
 import UIKit
@@ -118,8 +121,13 @@ extension ScannerVC: AVCaptureMetadataOutputObjectsDelegate {
 
 ````````````````
 
+----------------
+
+
 UIViewController -> Coordinator -> SwiftUI View
 ----------------
 <img width="684" alt="Screen" src="https://github.com/Elaidzha1940/BarcodeScanner/assets/64445918/2700da63-675b-403c-b452-24e82e86de73">
+
+----------------
 
 
