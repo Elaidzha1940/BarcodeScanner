@@ -1,7 +1,7 @@
 Barcode Scanner.
 ================
 
-Sanner UI
+Sanner UI:
 ---------
 
 <img width="388" alt="Barcode" src="https://github.com/Elaidzha1940/BarcodeScanner/assets/64445918/203ea823-fcaf-4735-976e-f72d0b531d10">
@@ -9,7 +9,7 @@ Sanner UI
 
 ----------
 
-Scanner 
+Scanner:
 --------
 
 ````````````````ruby
@@ -122,7 +122,6 @@ extension ScannerVC: AVCaptureMetadataOutputObjectsDelegate {
 ````````````````
 
 ----------------
-
 
 UIViewController -> Coordinator -> SwiftUI View
 ----------------
